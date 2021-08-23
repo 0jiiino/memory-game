@@ -1,0 +1,114 @@
+.main-board {
+  width: auto;
+  height: 650px;
+  font-family: 'Style Script', cursive;
+}
+
+.title {
+  font-size: 75px;
+  text-align: center;
+}
+
+.explain {
+  box-sizing: content-box;
+  font-size: 40px;
+  text-align: center;
+}
+
+.start-button-outline {
+  margin: 45px 0 0;
+  text-align: center;
+}
+
+.start-button {
+  box-sizing: content-box;
+  width: 250px;
+  height: 80px;
+  font-size: 37px;
+  font-family: 'Style Script', cursive;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.last-ment {
+  box-sizing: content-box;
+  font-size: 40px;
+  text-align: center;
+}
+
+.restart-button-outline {
+  margin: 45px 0 0;
+  text-align: center;
+}
+
+.restart-button {
+  box-sizing: content-box;
+  width: 250px;
+  height: 80px;
+  font-size: 37px;
+  font-family: 'Style Script', cursive;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.timer {
+  display: inline;
+  width: 200px;
+  height: 40px;
+  margin-left: 300px;
+  font-size: 30px;
+}
+
+.hint-chance {
+  display: inline;
+  width: auto;
+  height: 40px;
+  margin-right: 300px;
+  font-size: 30px;
+  float: right;
+}
+
+.hint {
+  box-sizing: content-box;
+  width: 100px;
+  height: 35px;
+  float: right;
+  margin: 2px 30px 0 0;
+  font-size: 25px;
+  font-family: 'Style Script', cursive;
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.row {
+  text-align: center;
+}
+
+.img-outer-part {
+  display: inline;
+}
+
+.img-section {
+  width: 110px;
+  height: 195.5px;
+  margin: 2px 3px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.sound {
+  display: inline;
+  width: 30px;
+  height: 30px;
+  margin-left: 300px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
